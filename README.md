@@ -1,3 +1,5 @@
+monit kapoor 
+anshu sharma 
 # https://learntosolveit.com
 
 [https://learntosolveit.com](https://learntosolveit.com) is a website to learn C programming using K&R book. It uses modern tools, and is designed to be used along with the book.
